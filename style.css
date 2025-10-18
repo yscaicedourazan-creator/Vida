@@ -6,6 +6,15 @@ body {
   padding: 20px;
 }
 
+#mensaje {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.4em;
+  line-height: 1.6;
+  text-align: justify;
+  color: #333;
+}
+
+
 #access input {
   padding: 10px;
   font-size: 16px;
