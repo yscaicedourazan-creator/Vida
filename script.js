@@ -7,6 +7,8 @@ function checkPassword() {
     const audio = document.getElementById("musica");
     audio.play();
 
+    document.querySelector(".te-amo").classList.add("palpita");
+
   } else {
     alert("Clave incorrecta. Intenta de nuevo.");
   }
