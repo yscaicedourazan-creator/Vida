@@ -1,0 +1,28 @@
+body {
+  background-color: #ffffff;
+  color: #2349c9; /* escarlata */
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  padding: 20px;
+}
+
+#access input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #030303;
+  color: rgb(0, 90, 41);
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.galeria img {
+  width: 200px;
+  margin: 10px;
+  border: 2px solid #01331e;
+  border-radius: 10px;
+}
