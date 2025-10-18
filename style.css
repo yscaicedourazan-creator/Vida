@@ -1,6 +1,6 @@
 body {
   background-color: #ffffff;
-  color: #2349c9; /* escarlata */
+  color: #2349c9; 
   font-family: 'Playfair Display', serif;
   text-align: center;
   padding: 20px;
@@ -12,8 +12,8 @@ body {
 }
 
 button {
-  background-color: #030303;
-  color: rgb(0, 90, 41);
+  background-color: #04835d;
+  color: rgb(0, 0, 0);
   border: none;
   padding: 10px 20px;
   margin-top: 10px;
